@@ -6,3 +6,4 @@ Añadir cadena de conexion en appsettings.json o en secretos de usuario:
   }
 }
 ```
+Ejecutar el comando ``` Update-Database ``` desde la consola del administrador de paquetes para aplicar las migraciones.
